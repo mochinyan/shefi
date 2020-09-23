@@ -1,0 +1,18 @@
+{
+  "name": "glitch-discord-bot",
+  "version": "0.0.0",
+  "description": "discord bot sample on Glitch",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "latest",
+    "discord.js-reaction-controller": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node main.js",
+    "test": "node main.js"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
